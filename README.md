@@ -2,7 +2,7 @@
 Golang Web Server Proxies with automatic rotation
 
 # How install
-Download https://go.dev/
+Download https://go.dev/ </br>
 Edit rotationproxy.go there you need enter a your proxy with rotation api link
 
 //proxy, api link rotate, how many second need wait for rotate, time.Now()
